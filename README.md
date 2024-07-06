@@ -4,15 +4,11 @@ This project is a simple clone of the YouTube homepage using HTML and CSS. It ai
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Usage](#usage)
 
-## Demo
-
-You can view the live demo of the YouTube clone [here](#).
 
 ## Features
 
